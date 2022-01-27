@@ -1,7 +1,6 @@
 # Sync vs Async communication
 
 ## Sync
----
 
 ### Pro 
 
@@ -16,7 +15,6 @@
 - In case a service is down(unavailable) other services that are dependant fail also
 
 ## Async
----
 
 ### Pro
 
