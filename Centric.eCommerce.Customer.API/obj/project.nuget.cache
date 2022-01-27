@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUM+j59jCG9xiPuIeM4kU2Bmkl3vff5Lvig5v3Ryrpd7Mdo1mHKJYH03R+VexB0V9BjpWctRkapqtgaXDo53ng==",
+  "success": true,
+  "projectFilePath": "C:\\GIt\\CloudTraining\\Centric.eCommerce.Customer.API\\Centric.eCommerce.Customer.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abuzduga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\abuzduga\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\abuzduga\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\abuzduga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\abuzduga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\abuzduga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
