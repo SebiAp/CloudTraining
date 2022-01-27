@@ -1,6 +1,12 @@
-﻿namespace Centric.eCommerce.Product.Api.DB;
+﻿using Microsoft.EntityFrameworkCore;
 
-public class ProductDbContext
+namespace Centric.eCommerce.Product.Api.DB;
+
+public class ProductDbContext : DbContext
 {
-    
+    public ProductDbContext(DbContextOptions options) : base(options)
+    {
+    }
+
+    public DbSet<Product> Products { get; set; }
 }

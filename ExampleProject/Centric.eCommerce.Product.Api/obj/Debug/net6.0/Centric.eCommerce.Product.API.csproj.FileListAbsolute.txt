@@ -10,7 +10,6 @@ C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\bin\Debug\net6
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\obj\Debug\net6.0\Centric.eCommerce.Product.API.csproj.AssemblyReference.cache
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\obj\Debug\net6.0\Centric.eCommerce.Product.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\obj\Debug\net6.0\Centric.eCommerce.Product.API.AssemblyInfoInputs.cache
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\obj\Debug\net6.0\Centric.eCommerce.Product.API.AssemblyInfo.cs
@@ -25,3 +24,4 @@ C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\obj\Debug\net6
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\obj\Debug\net6.0\ref\Centric.eCommerce.Product.API.dll
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\obj\Debug\net6.0\Centric.eCommerce.Product.API.pdb
 C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\obj\Debug\net6.0\Centric.eCommerce.Product.API.genruntimeconfig.cache
+C:\GIt\CloudTraining\ExampleProject\Centric.eCommerce.Product.Api\bin\Debug\net6.0\AutoMapper.dll
