@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EYNMjnnI73olYGYX2sghd1uj8U88CoKQLiuPPketTCY=",
+  "Source": "Centric.eCommerce.Order.API",
+  "BasePath": "_content/Centric.eCommerce.Order.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

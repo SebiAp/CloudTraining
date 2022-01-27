@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74ca442f-9776-44cd-833f-9c84c0734a7a": {
+      "ProjectGuid": "74ca442f-9776-44cd-833f-9c84c0734a7a",
+      "DisplayName": "Centric.eCommerce.Order.API",
+      "ColorIndex": 0
+    },
+    "20626a89-ab80-44d1-8ff9-be8b5688fd41": {
+      "ProjectGuid": "20626a89-ab80-44d1-8ff9-be8b5688fd41",
+      "DisplayName": "Centric.eCommerce.Product.API",
+      "ColorIndex": 1
+    },
+    "87595f4d-bc4d-4323-afb5-99fd4a0c4265": {
+      "ProjectGuid": "87595f4d-bc4d-4323-afb5-99fd4a0c4265",
+      "DisplayName": "Centric.eCommerce.Customer.API",
+      "ColorIndex": 2
+    },
+    "541414b6-cd5c-4bca-9ea4-f2c8ec842dec": {
+      "ProjectGuid": "541414b6-cd5c-4bca-9ea4-f2c8ec842dec",
+      "DisplayName": "Centric.eCommerce.Search.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
